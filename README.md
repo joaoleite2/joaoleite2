@@ -13,6 +13,7 @@
 <br>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joaoleite2&bg_color=0d1117&color=9acd32&line=9acd32&point=3CB371&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9acd32&height=120&section=footer"/>
 
